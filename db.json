@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+        "id": "1",
+        "name": "Marsella 450g",
+        "category": "Detergente"
+    },
+    {
+        "id": "2",
+        "name": "Ace 450g",
+        "category": "Detergente"
+    }
+  ]
+}
