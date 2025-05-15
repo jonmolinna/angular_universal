@@ -1,1 +1,7 @@
 @import "tailwindcss";
+
+/* Tailwindcss Motion */
+@plugin "tailwindcss-motion";
+
+/* Tailwindcss Animated */
+@import "tailwindcss-animated";

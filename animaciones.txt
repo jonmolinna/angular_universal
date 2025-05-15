@@ -1,0 +1,20 @@
+Animaciones con Tailwindcss
+------------------------------------------------
+
+1. Rombo
+------------------------------------------------------------
+Link -> https://rombo.co/tailwind/
+Link -> https://docs.rombo.co/tailwind/installation
+
+install -> npm i -D tailwindcss-motion
+
+2. Tailwindcss Animated
+---------------------------------------------
+Link -> https://www.tailwindcss-animated.com/
+Link -> https://github.com/new-data-services/tailwindcss-animated#readme
+
+install -> npm install tailwindcss-animated
+
+
+
+https://animation.ibelick.com/

@@ -2,10 +2,12 @@ import { afterNextRender, afterRender, Component, inject, PLATFORM_ID } from '@a
 import { RouterOutlet } from '@angular/router';
   import { DataService } from './service/data.service';
 import { CommonModule, isPlatformBrowser, isPlatformServer } from '@angular/common';
+import { AnimatedRomboComponent } from './animated-rombo/animated-rombo.component';
+import { TailwindAnimatedComponent } from './tailwind-animated/tailwind-animated.component';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, CommonModule],
+  imports: [RouterOutlet, CommonModule, AnimatedRomboComponent, TailwindAnimatedComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
